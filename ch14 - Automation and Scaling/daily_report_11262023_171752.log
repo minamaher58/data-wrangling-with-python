@@ -1,0 +1,9 @@
+11-26 17:17:52 SCRIPT: I'm starting to do things!
+11-26 17:17:52 SCRIPT: We had a problem!
+Traceback (most recent call last):
+  File "C:\Users\minam\AppData\Local\Temp\ipykernel_4552\1794417401.py", line 17, in main
+    20 / 0
+    ~~~^~~
+ZeroDivisionError: division by zero
+11-26 17:17:52 SCRIPT: Issue with division in the main() function
+11-26 17:17:52 SCRIPT: About to wrap things up!
